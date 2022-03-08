@@ -11,7 +11,7 @@
 
 **Data:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
 
-**R Code:** [Classification of Online Customers] (https://github.com/ricky1435/Online-Retail-UK/blob/main/RFM.R)
+**R Code:** [Classification of Online Customers](https://github.com/ricky1435/Online-Retail-UK/blob/main/RFM.R)
 
 ## Tableau Dashboard before RFM analysis
 https://public.tableau.com/app/profile/ruthvik.pvs/viz/Retail_dashboard/Dashboard1
