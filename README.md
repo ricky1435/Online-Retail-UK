@@ -28,3 +28,5 @@ After collecting the data and creating the dashboard to analyze it clearly, we n
       * Monetary - How much on total did the customer spend? (Sum of all transactions)
 * Removed all transactions that are below first Quantile and above third Quantile on boxplots. 
 
+## Author
+[Ruthvik PVS](https://github.com/ricky1435)
