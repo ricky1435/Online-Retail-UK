@@ -1,4 +1,4 @@
-# Classification of Online Customers using RFM
+# Classification of Online Customers using RFM 
 * Developed a model that classifies customers based on their spending habits using K-means clustering in R. 
 * The data was collected from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II).
 * Engineereed features called Recency, Frequency and Monetary values from the data to classify customers based on their buying patterns.
@@ -10,6 +10,8 @@
 **Packeges:** tidyverse, dplyr, ggplot2, caret, plotly, readxl, factoextra
 
 **Data:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
+
+**R Code:** [Classification of Online Customers] (https://github.com/ricky1435/Online-Retail-UK/blob/main/RFM.R)
 
 ## Tableau Dashboard before RFM analysis
 https://public.tableau.com/app/profile/ruthvik.pvs/viz/Retail_dashboard/Dashboard1
