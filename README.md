@@ -5,9 +5,9 @@
 * Created a Tableau Dashboard with important KPI's to help the business better understand their performance in the market.
 
 ## Code and Resources 
-** R version:** 4.1.3
-** Packeges:** tidyverse, dplyr, ggplot2, caret, plotly, readxl, factoextra
-** Data:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
+**R version:** 4.1.3
+**Packeges:** tidyverse, dplyr, ggplot2, caret, plotly, readxl, factoextra
+**Data:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
 
 ## Tableau Dashboard before RFM analysis
 https://public.tableau.com/app/profile/ruthvik.pvs/viz/Retail_dashboard/Dashboard1
