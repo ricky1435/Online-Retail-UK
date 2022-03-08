@@ -6,7 +6,9 @@
 
 ## Code and Resources 
 **R version:** 4.1.3
+
 **Packeges:** tidyverse, dplyr, ggplot2, caret, plotly, readxl, factoextra
+
 **Data:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
 
 ## Tableau Dashboard before RFM analysis
